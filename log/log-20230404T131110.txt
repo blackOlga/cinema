@@ -1,0 +1,2 @@
+358  [main] INFO  com.senla.main.enums.Main - Открыто главное меню
+23853 [main] INFO  com.senla.main.enums.Main - Пользователь открыл меню выбора

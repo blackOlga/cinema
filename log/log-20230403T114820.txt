@@ -1,0 +1,2 @@
+403  [main] INFO  com.senla.main.enums.Main - Открыто главное меню
+3697 [main] INFO  com.senla.main.enums.Main - Пользователь открыл меню выбора

@@ -1,0 +1,3 @@
+477  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+40877 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Oleg зарегистрировался 2023-04-07T13:35:24.394876
+41215 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

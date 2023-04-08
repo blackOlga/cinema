@@ -1,0 +1,3 @@
+13684 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Admin вошёл в программу 2023-04-04T20:51:09.278948200
+13933 [main] INFO  com.senla.main.enums.Main - открыто главное меню для менеджера
+13934 [main] INFO  com.senla.main.enums.Main - Открыто главное меню для менеджера

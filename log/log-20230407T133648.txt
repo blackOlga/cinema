@@ -1,0 +1,3 @@
+17317 [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+105994 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Oleg  вошёл в программу  2023-04-07T13:38:34.287504600
+587760 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

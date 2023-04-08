@@ -1,0 +1,2 @@
+19393 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Admin admin вошёл в программу  2023-04-06T17:31:24.095123500
+19397 [main] INFO  c.s.m.controller.PersonController - Открыто главное меню для администратора

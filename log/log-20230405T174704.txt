@@ -1,0 +1,2 @@
+373  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+14679 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь SHFDK вошёл в программу 2023-04-05T17:47:18.603229300

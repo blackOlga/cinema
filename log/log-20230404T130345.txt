@@ -1,0 +1,2 @@
+445  [main] INFO  com.senla.main.enums.Main - Открыто главное меню
+10272 [main] INFO  com.senla.main.enums.Main - Пользователь открыл меню выбора

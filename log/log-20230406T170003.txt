@@ -1,0 +1,3 @@
+378  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+11148 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь vasg зарегистрировался 2023-04-06T17:00:14.305330500
+11520 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

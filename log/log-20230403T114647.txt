@@ -1,0 +1,2 @@
+346  [main] INFO  com.senla.main.enums.Main - Открыто главное меню
+6136 [main] INFO  com.senla.main.enums.Main - Пользователь открыл меню выбора

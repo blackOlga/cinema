@@ -1,0 +1,3 @@
+331  [main] INFO  com.senla.main.util.Menu - Открыто главное меню
+10585 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Фдуч вошёл в программу 2023-04-05T17:26:30.791675400
+10844 [main] INFO  com.senla.main.util.Menu - Пользователь открыл меню выбора

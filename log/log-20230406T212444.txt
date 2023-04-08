@@ -1,0 +1,3 @@
+542  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+13938 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Alex 4598 вошёл в программу  2023-04-06T21:24:58.185517700
+14241 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

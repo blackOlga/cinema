@@ -1,0 +1,3 @@
+19479 [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+117387 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Jeka зарегистрировался 2023-04-07T13:14:58.757224
+765311 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

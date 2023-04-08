@@ -1,0 +1,3 @@
+366  [main] INFO  com.senla.main.util.Menu - Открыто главное меню
+21387 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Alex вошёл в программу 2023-04-05T16:55:00.112118400
+21641 [main] INFO  com.senla.main.util.Menu - Пользователь открыл меню выбора

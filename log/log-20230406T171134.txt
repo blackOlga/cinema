@@ -1,0 +1,3 @@
+373  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+13973 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь rydgjhkk зарегистрировался 2023-04-06T17:11:47.988691600
+14253 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

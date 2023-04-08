@@ -1,0 +1,5 @@
+927  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+22807 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Oleg  вошёл в программу  2023-04-07T18:24:28.257744900
+42316 [main] INFO  c.s.m.controller.PersonController - Пользователь   посмотрел купленные билеты
+42317 [main] INFO  c.s.main.service.CardServiceImpl - Просмотр  2023-04-07T18:24:47.767024
+42320 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

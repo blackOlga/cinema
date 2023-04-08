@@ -1,0 +1,1 @@
+401  [main] INFO  com.senla.main.enums.Main - открыто главное меню

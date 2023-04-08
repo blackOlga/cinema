@@ -1,0 +1,3 @@
+351  [main] INFO  com.senla.main.enums.Main - Открыто главное меню
+11822 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь здло зарегистрировался 2023-04-03T12:16:10.791934800
+12087 [main] INFO  com.senla.main.enums.Main - Пользователь открыл меню выбора

@@ -1,0 +1,2 @@
+888  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+24749 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь DOK зарегистрировался 2023-04-06T22:09:24.729095400

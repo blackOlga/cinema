@@ -1,0 +1,3 @@
+371  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+22302 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь VASSIA зарегистрировался 2023-04-06T16:58:10.641967500
+22549 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

@@ -1,0 +1,3 @@
+400  [main] INFO  com.senla.main.enums.Main - Открыто главное меню
+10396 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь ikjh зарегистрировался 2023-04-03T11:51:46.766066500
+10652 [main] INFO  com.senla.main.enums.Main - Пользователь открыл меню выбора

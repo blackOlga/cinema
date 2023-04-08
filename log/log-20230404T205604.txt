@@ -1,0 +1,3 @@
+505  [main] INFO  com.senla.main.enums.Main - Открыто главное меню
+14248 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Alex зарегистрировался 2023-04-04T20:56:18.141116400
+14526 [main] INFO  com.senla.main.enums.Main - Пользователь открыл меню выбора

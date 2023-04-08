@@ -1,0 +1,3 @@
+512  [main] INFO  com.senla.main.util.Menu - Открыто главное меню
+21680 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Аня зарегистрировался 2023-04-05T16:38:46.095187500
+21965 [main] INFO  com.senla.main.util.Menu - Пользователь открыл меню выбора

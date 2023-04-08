@@ -1,0 +1,5 @@
+830  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+10175 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Oleg  вошёл в программу  2023-04-07T17:04:03.731336
+29871 [main] INFO  c.s.m.controller.PersonController - Пользователь  покупает билет 
+29872 [main] INFO  c.s.main.service.CardServiceImpl - Пользователь Olegкупил билет 3 2023-04-07T17:04:23.429754
+29873 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

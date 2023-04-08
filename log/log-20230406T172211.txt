@@ -1,0 +1,3 @@
+385  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+38452 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь dfghjm зарегистрировался 2023-04-06T17:22:49.252654100
+38966 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора

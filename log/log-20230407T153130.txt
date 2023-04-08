@@ -1,0 +1,1 @@
+2141 [main] INFO  c.s.m.controller.PersonController - Открыто главное меню

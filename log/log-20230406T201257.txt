@@ -1,0 +1,3 @@
+642  [main] INFO  c.s.m.controller.PersonController - Открыто главное меню
+9743 [main] INFO  c.s.main.service.PersonServiceImpl - Пользователь Alex зарегистрировался 2023-04-06T20:13:07.183997800
+10150 [main] INFO  c.s.m.controller.PersonController - Пользователь открыл меню выбора
