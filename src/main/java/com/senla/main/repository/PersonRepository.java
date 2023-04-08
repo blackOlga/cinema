@@ -8,10 +8,6 @@ import java.util.List;
 
 public interface PersonRepository {
 
-    default boolean create() {
-        return false;
-    }
-
     public boolean create(Person person);
 
     List<Person> getAllPersons();

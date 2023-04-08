@@ -11,7 +11,7 @@ public interface PersonService {
     /**
      * Сохранение пользователя в базу данных
      */
-    boolean create();
+   boolean create(Person person);
 
     /**
      * Удаление пользователя из базы данных

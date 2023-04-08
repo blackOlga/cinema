@@ -105,10 +105,11 @@ public class PersonController {
 
                         person.setUsername(username);
                         person.setPassword(password);
-                        boolean b = personService.create();
-                        System.out.println("Регистрация прошла успешна !");
-
-                        acquireUser();
+                        boolean b = personService.create(person);
+                        if(b) {
+                            System.out.println("Регистрация прошла успешна !");
+                            acquireUser();
+                        }else System.out.println("Пользователь не зарегистрировался");
 
                     } catch (NoSuchElementException e) {
                         e.printStackTrace();
@@ -131,7 +132,6 @@ public class PersonController {
                         }
                     } catch (
                             RuntimeException e) {
-                        System.out.println("Логин или пароль ввели неверно. Попробуйте ещё раз");
                     }
 
                 }

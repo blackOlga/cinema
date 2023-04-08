@@ -23,11 +23,9 @@ public class PersonServiceImpl implements PersonService {
     }
 
     @Override
-    public boolean create() {
-
-            log.info("Пользователь " +  " зарегистрировался " + LocalDateTime.now());
-            return personRepository.create();
-
+    public boolean create(Person person) {
+        log.info("Пользователь " +  " зарегистрировался " + LocalDateTime.now());
+        return personRepository.create( person);
     }
 
     @Override
